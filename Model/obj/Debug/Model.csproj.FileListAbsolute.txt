@@ -1,0 +1,30 @@
+D:\GundamOnline\GundamShop\Model\bin\Debug\Model.dll.config
+D:\GundamOnline\GundamShop\Model\bin\Debug\Model.dll
+D:\GundamOnline\GundamShop\Model\bin\Debug\Model.pdb
+D:\GundamOnline\GundamShop\Model\bin\Debug\EntityFramework.dll
+D:\GundamOnline\GundamShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\GundamOnline\GundamShop\Model\bin\Debug\EntityFramework.xml
+D:\GundamOnline\GundamShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\GundamOnline\GundamShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\GundamOnline\GundamShop\Model\obj\Debug\Model.dll
+D:\GundamOnline\GundamShop\Model\obj\Debug\Model.pdb
+C:\Users\Van Anh\Downloads\GundamShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Van Anh\Downloads\GundamShop\Model\obj\Debug\Model.dll
+C:\Users\Van Anh\Downloads\GundamShop\Model\obj\Debug\Model.pdb
+C:\Users\Van Anh\Downloads\GundamShop\Model\bin\Debug\Model.dll.config
+C:\Users\Van Anh\Downloads\GundamShop\Model\bin\Debug\Model.dll
+C:\Users\Van Anh\Downloads\GundamShop\Model\bin\Debug\Model.pdb
+C:\Users\Van Anh\Downloads\GundamShop\Model\bin\Debug\EntityFramework.dll
+C:\Users\Van Anh\Downloads\GundamShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Van Anh\Downloads\GundamShop\Model\bin\Debug\EntityFramework.xml
+C:\Users\Van Anh\Downloads\GundamShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gundam\GundamShop\Model\bin\Debug\Model.dll.config
+D:\Gundam\GundamShop\Model\bin\Debug\Model.dll
+D:\Gundam\GundamShop\Model\bin\Debug\Model.pdb
+D:\Gundam\GundamShop\Model\bin\Debug\EntityFramework.dll
+D:\Gundam\GundamShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gundam\GundamShop\Model\bin\Debug\EntityFramework.xml
+D:\Gundam\GundamShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gundam\GundamShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Gundam\GundamShop\Model\obj\Debug\Model.dll
+D:\Gundam\GundamShop\Model\obj\Debug\Model.pdb

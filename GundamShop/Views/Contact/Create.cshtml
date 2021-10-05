@@ -1,0 +1,73 @@
+﻿@model Model.EF.Feedback
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://kit.fontawesome.com/cf03b6a817.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/css/item.css">
+    <link rel="stylesheet" type="text/css" href="~/css/all.css">
+    <script src="~/Javascript/slide.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/bootstrap-3.4.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="~/bootstrap-3.4.1-dist/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <div class="main">
+        <div class="content">
+            <div class="section group">
+                <div class="col span_2_of_3">
+                    <div class="contact-form">
+                        <h2>Contact Us</h2>
+                            @using (Html.BeginForm("Index", "Contact", FormMethod.Post))
+                            {
+                                @Html.AntiForgeryToken()
+                                @Html.TextBoxFor(m => m.Name, new { @placeholder = "Tên" })
+                                @Html.ValidationMessageFor(model => model.Name)
+                                @Html.TextBoxFor(model => model.Phone, new { @placeholder = "Số Điện Thoại" })
+                                @Html.ValidationMessageFor(model => model.Phone)
+                                @Html.TextBoxFor(model => model.Email, new { @placeholder = "Email" })
+                                @Html.ValidationMessageFor(model => model.Email)
+                                @Html.TextAreaFor(model => model.Content, new { @placeholder = "Nhận Xét...." })
+                                @Html.ValidationMessageFor(model => model.Content)
+
+                                <input type="submit" value="Đăng Ký">
+                            }
+
+                    </div>
+                </div>
+                <div class="col span_1_of_3">
+                    <div class="contact_info">
+                        <h3>Bản Đồ</h3>
+                        <div class="maps_contact">
+                            <div class="iFrameMap">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.4555217959487!2d106.66548831472605!3d10.776381292321528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f9023a3a85d%3A0xdee5c99a7b02feab!2sHuflit!5e0!3m2!1sen!2s!4v1609381662427!5m2!1sen!2s" width="450" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="">
+                        <h3>Liên Hệ :</h3>
+                        <div class="icon_contact" style="color: gold"><i class="fa fa-map-marker"></i> Địa Chỉ:  </div>
+                        <div class="text_contact">Phường 12, Quận 10, Thành phố Hồ Chí Minh</div>
+                        <br />
+                        <div class="icon_contact" style="color: gold"><i class="fa fa-phone"> Điện Thoại: </i></div>
+                        <div class="text_contact"><a href="tel:0933801154" title="Liên hệ : 0933801154">0933801154</a></div>
+                        <br />
+                        <div class="icon_contact" style="color: gold"><i class="fa fa-envelope"> Email: </i></div>
+                        <div class="text_contact"><a href="mailto:tinblabla169@gmail.com">tinblabla169@gmail.com</a></div>
+                        <p>Follow on: <span>Facebook</span>, <span>Twitter</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+

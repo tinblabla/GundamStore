@@ -1,0 +1,264 @@
+D:\GundamOnline\GundamShop\GundamShop\bin\ApplicationInsights.config
+D:\GundamOnline\GundamShop\GundamShop\bin\roslyn\csc.exe
+D:\GundamOnline\GundamShop\GundamShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GundamOnline\GundamShop\GundamShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GundamOnline\GundamShop\GundamShop\bin\roslyn\System.Collections.Immutable.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\roslyn\vbc.exe
+D:\GundamOnline\GundamShop\GundamShop\bin\roslyn\VBCSCompiler.exe
+D:\GundamOnline\GundamShop\GundamShop\bin\roslyn\VBCSCompiler.exe.config
+D:\GundamOnline\GundamShop\GundamShop\bin\GundamShop.dll.config
+D:\GundamOnline\GundamShop\GundamShop\bin\GundamShop.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\GundamShop.pdb
+D:\GundamOnline\GundamShop\GundamShop\bin\Antlr3.Runtime.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\EntityFramework.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\EntityFramework.SqlServer.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AI.Web.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AI.WindowsServer.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.ApplicationInsights.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Google.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Web.Infrastructure.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Model.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Newtonsoft.Json.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Owin.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.Helpers.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.Mvc.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.Optimization.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.Razor.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.WebPages.Deployment.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.WebPages.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.WebPages.Razor.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\WebGrease.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\Model.pdb
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AI.Web.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AI.WindowsServer.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.ApplicationInsights.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.Helpers.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.Mvc.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.Optimization.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.Razor.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.WebPages.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.WebPages.Deployment.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\System.Web.WebPages.Razor.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Antlr3.Runtime.pdb
+D:\GundamOnline\GundamShop\GundamShop\bin\Newtonsoft.Json.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\EntityFramework.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\EntityFramework.SqlServer.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Google.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GundamOnline\GundamShop\GundamShop\obj\Debug\GundamShop.csprojResolveAssemblyReference.cache
+D:\GundamOnline\GundamShop\GundamShop\obj\Debug\GundamShop.dll
+D:\GundamOnline\GundamShop\GundamShop\obj\Debug\GundamShop.pdb
+D:\GundamOnline\GundamShop\GundamShop\bin\PagedList.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\PagedList.Mvc.dll
+D:\GundamOnline\GundamShop\GundamShop\bin\PagedList.xml
+D:\GundamOnline\GundamShop\GundamShop\bin\PagedList.Mvc.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\ApplicationInsights.config
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\roslyn\csc.exe
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\roslyn\vbc.exe
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\GundamShop.dll.config
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\GundamShop.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\GundamShop.pdb
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Antlr3.Runtime.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\EntityFramework.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AI.Web.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Model.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Newtonsoft.Json.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Owin.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\PagedList.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\PagedList.Mvc.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.Helpers.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.Mvc.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.Optimization.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.Razor.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.WebPages.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\WebGrease.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Model.pdb
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AI.Web.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\PagedList.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\PagedList.Mvc.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.Helpers.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.Mvc.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.Optimization.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.Razor.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.WebPages.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Antlr3.Runtime.pdb
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Newtonsoft.Json.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\EntityFramework.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\obj\Debug\GundamShop.csprojResolveAssemblyReference.cache
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\obj\Debug\GundamShop.dll
+C:\Users\Van Anh\Downloads\GundamShop\GundamShop\obj\Debug\GundamShop.pdb
+D:\Gundam\GundamShop\GundamShop\bin\ApplicationInsights.config
+D:\Gundam\GundamShop\GundamShop\bin\roslyn\csc.exe
+D:\Gundam\GundamShop\GundamShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Gundam\GundamShop\GundamShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Gundam\GundamShop\GundamShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Gundam\GundamShop\GundamShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Gundam\GundamShop\GundamShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Gundam\GundamShop\GundamShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Gundam\GundamShop\GundamShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Gundam\GundamShop\GundamShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Gundam\GundamShop\GundamShop\bin\roslyn\vbc.exe
+D:\Gundam\GundamShop\GundamShop\bin\roslyn\VBCSCompiler.exe
+D:\Gundam\GundamShop\GundamShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Gundam\GundamShop\GundamShop\bin\GundamShop.dll.config
+D:\Gundam\GundamShop\GundamShop\bin\GundamShop.dll
+D:\Gundam\GundamShop\GundamShop\bin\GundamShop.pdb
+D:\Gundam\GundamShop\GundamShop\bin\Antlr3.Runtime.dll
+D:\Gundam\GundamShop\GundamShop\bin\EntityFramework.dll
+D:\Gundam\GundamShop\GundamShop\bin\EntityFramework.SqlServer.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AI.Web.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AI.WindowsServer.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.ApplicationInsights.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Google.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Gundam\GundamShop\GundamShop\bin\Model.dll
+D:\Gundam\GundamShop\GundamShop\bin\Newtonsoft.Json.dll
+D:\Gundam\GundamShop\GundamShop\bin\Owin.dll
+D:\Gundam\GundamShop\GundamShop\bin\PagedList.dll
+D:\Gundam\GundamShop\GundamShop\bin\PagedList.Mvc.dll
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.Helpers.dll
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.Mvc.dll
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.Optimization.dll
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.Razor.dll
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.WebPages.Deployment.dll
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.WebPages.dll
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.WebPages.Razor.dll
+D:\Gundam\GundamShop\GundamShop\bin\WebGrease.dll
+D:\Gundam\GundamShop\GundamShop\bin\Model.pdb
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AI.Web.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AI.WindowsServer.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.ApplicationInsights.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Gundam\GundamShop\GundamShop\bin\PagedList.xml
+D:\Gundam\GundamShop\GundamShop\bin\PagedList.Mvc.xml
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.Helpers.xml
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.Mvc.xml
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.Optimization.xml
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.Razor.xml
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.WebPages.xml
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.WebPages.Deployment.xml
+D:\Gundam\GundamShop\GundamShop\bin\System.Web.WebPages.Razor.xml
+D:\Gundam\GundamShop\GundamShop\bin\Antlr3.Runtime.pdb
+D:\Gundam\GundamShop\GundamShop\bin\Newtonsoft.Json.xml
+D:\Gundam\GundamShop\GundamShop\bin\EntityFramework.xml
+D:\Gundam\GundamShop\GundamShop\bin\EntityFramework.SqlServer.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Google.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Gundam\GundamShop\GundamShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Gundam\GundamShop\GundamShop\obj\Debug\GundamShop.csprojResolveAssemblyReference.cache
+D:\Gundam\GundamShop\GundamShop\obj\Debug\GundamShop.dll
+D:\Gundam\GundamShop\GundamShop\obj\Debug\GundamShop.pdb

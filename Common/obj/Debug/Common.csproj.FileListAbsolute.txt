@@ -1,0 +1,5 @@
+D:\GundamOnline\GundamShop\Common\bin\Debug\Common.dll
+D:\GundamOnline\GundamShop\Common\bin\Debug\Common.pdb
+D:\GundamOnline\GundamShop\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\GundamOnline\GundamShop\Common\obj\Debug\Common.dll
+D:\GundamOnline\GundamShop\Common\obj\Debug\Common.pdb

@@ -1,0 +1,53 @@
+﻿@model Model.EF.Product
+@{
+    ViewBag.Title = "Detail";
+    var category = (Model.EF.ProductCategory)ViewBag.Category;
+    var relatedProduct = (List<Model.EF.Product>)ViewBag.RelatedProducts;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<head>
+    <title>Chi Tiết</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://kit.fontawesome.com/cf03b6a817.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/css/item.css">
+    <link rel="stylesheet" type="text/css" href="~/css/all.css">
+    <link rel="stylesheet" type="text/css" href="~/css/HomeMenu.css">
+    <link rel="stylesheet" type="text/css" href="~/bootstrap-3.4.1-dist/css/bootstrap.css">
+   
+</head>
+<body>
+<div class="section group">
+        <div class="cont-desc span_1_of_2">
+            <div class="product-details">
+                <a href="#" target="_blank"><img src="@Model.Image" alt=" " /></a>
+            </div>
+            <div class="desc span_3_of_2">
+                <h2>@Model.Name </h2>
+                <div class="price">
+                    <p>Giá: <span>@Model.Price</span></p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="add-cart">
+                <h4><a href="/them-gio-hang?productId=@Model.ID&quantity=1">Thêm Vào Giỏ</a></h4>
+            </div>
+            <div class="product_desc">
+                <div id="horizontalTab">
+                    <div class="clearfix"></div>
+                    <ul class="resp-tabs-list">
+                        <li>Mô Tả</li>                  
+                    </ul>
+                    <div class="resp-tabs-container">
+                        <div class="product-desc">
+                            <p>@Model.Detail</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+</div>
+</body>

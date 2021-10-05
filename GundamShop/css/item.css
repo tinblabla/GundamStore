@@ -1,0 +1,110 @@
+
+
+
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.name{
+font-size: 16px;
+
+}
+#margin-row{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.series{
+    color: pink;
+}
+
+
+
+
+.price{
+    color: red;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bolder;
+}
+.btn{
+   width: 100%;
+   
+   background-color: orange;
+  
+}
+.btn:hover{
+    opacity: 0.5;
+    transition: ease-in-out 0.5s;
+}
+.buy{
+    color: white;
+}
+.container{
+	text-align: center;
+}
+/*kích cỡ hình đầu trang chũ*/
+
+.page-img, .page-img-back{
+	width: 1200px;
+	height: 250px;
+	margin-bottom: 50px;
+	padding-left: 100px;
+	background-size: 100%;
+}
+/*thay đổi*/
+.page-logo{
+        position: relative;
+        display: inline-block;
+    }
+.page-logo .page-img-back{
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 99;
+    }
+.page-logo:hover .page-img-back{
+        display: inline;
+    }
+/*tiêu đề sp*/
+.sp {
+	color: orange;
+	padding-left: 95px;
+	margin-bottom: 25px;
+}
+h4.tip {
+    text-decoration: none
+}
+h4.tip:hover {
+    cursor: help;
+    position: relative
+}
+h4.tip span {
+    display: none
+}
+h4.tip:hover span {
+    border: #c0c0c0 1px dotted;
+    padding: 5px 20px 5px 5px;
+    display: block;
+    z-index: 50;
+    background: url(../images/status-info.png) #f0f0f0 no-repeat 100% 5%;
+    left: 75px;
+    margin: 10px;
+    width: 250px;
+    position: absolute;
+    top: 20px;
+    text-decoration: none
+}
+/*ảnh vá chữ*/
+#logo-holder {position:relative;/*dimensions of image*/}
+#logo-holder #image,
+#logo-holder .text {transition: opacity 0.5s ease-in-out; color:black;}
+#logo-holder .text {position:absolute; top:65px; left:5px; opacity:0;}
+#logo-holder #image{width: 250px; height: 250px;}
+
+#logo-holder:hover #image {opacity:0.2;}
+#logo-holder:hover .text {opacity:1;}
+
+
